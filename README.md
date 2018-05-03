@@ -419,7 +419,7 @@ contract Migrations {
 ```
 
 #### truffle.js (ORIGINAL)
-```json
+```js
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
   // for more about customizing your Truffle configuration!
